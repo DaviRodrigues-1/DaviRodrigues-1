@@ -4,13 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DaviRodrigues-1&hide=prs&show_icons=true&theme=transparent" alt="DaviRodrigues-1 GitHub stats"/>
 </div>
   
-<div display="inline_block" align="center"><br>
- <img  height="40" width="50" alt="rapha-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
- <img  height="40" width="50" alt="rapha-sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
- <img  height="40" width="50" alt="rapha-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<br><br>
-<hr style="border: 1px solid #ccc; width: 80%; margin: auto; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-<br>
 Social media:
 
 <br>
