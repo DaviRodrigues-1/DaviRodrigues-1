@@ -13,8 +13,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviRodrigues-1&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviRodrigues-1&layout=compact&langs_count=6&theme=dracula" height="150" />
+  <img src="![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DaviRodrigues-1&show_icons=true&theme=dracula)" height="150" />
+  <img src="![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaviRodrigues-1&layout=compact&theme=dracula)" height="150" />
 </div>
 
 ---
